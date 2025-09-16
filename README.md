@@ -74,27 +74,28 @@ YogaFlow is engineered with a robust and scalable architecture:
 
 This project adopts a clean and modular directory structure to ensure maintainability, scalability, and easy navigation for all contributors.
 
-  📦yogaflow
- ┣ 📂.github
- ┃ ┣ 📂ISSUE_TEMPLATE
- ┃ ┃ ┣ 📜bug_report.md
- ┃ ┃ ┗ 📜feature_request.md
- ┃ ┗ 📂workflows
- ┃ ┃ ┗ 📜main.yml
- ┣ 📂docs
- ┃ ┣ 📜API_Documentation.md
- ┃ ┣ 📜Architecture_Design.md
- ┃ ┣ 📜Database_Schema.md
- ┃ ┣ 📜Deployment_Guide.md
- ┃ ┗ 📜RPD_Document.md
- ┣ 📜.DS_Store
- ┣ 📜.env.example
- ┣ 📜.gitignore
- ┣ 📜CONTRIBUTING.md
- ┣ 📜LICENSE
- ┣ 📜README.md
- ┣ 📜package-lock.json
- ┗ 📜package.json
+
+  📦yogaflow\
+ ┣ 📂.github\
+ ┃ ┣ 📂ISSUE_TEMPLATE\
+ ┃ ┃ ┣ 📜bug_report.md\
+ ┃ ┃ ┗ 📜feature_request.md\
+ ┃ ┗ 📂workflows\
+ ┃ ┃ ┗ 📜main.yml\
+ ┣ 📂docs\
+ ┃ ┣ 📜API_Documentation.md\
+ ┃ ┣ 📜Architecture_Design.md\
+ ┃ ┣ 📜Database_Schema.md\
+ ┃ ┣ 📜Deployment_Guide.md\
+ ┃ ┗ 📜RPD_Document.md\
+ ┣ 📜.DS_Store\
+ ┣ 📜.env.example\
+ ┣ 📜.gitignore\
+ ┣ 📜CONTRIBUTING.md\
+ ┣ 📜LICENSE\
+ ┣ 📜README.md\
+ ┣ 📜package-lock.json\
+ ┗ 📜package.json\
 
 
  ---
